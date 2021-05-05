@@ -23,7 +23,7 @@ A video version of the recap of the smart contract situation on Polkadot and Kus
 Here is the list of current resources available to developers who want to get started writing smart
 contracts to deploy on parachains based on Substrate.
 
-- [Edgeware Contracts](https://contracts.edgewa.re) - Edgeware's documentation on Smart Contracts
+- [Edgeware Contracts](https://main.edgeware.wiki/contribute-and-engage/develop/edgeware-smart-contracts) - Edgeware's documentation on Smart Contracts
 - [ink!](https://github.com/paritytech/ink) - Parity's ink to write smart contracts.
 - [Substrate Contracts Workshop](https://substrate.dev/substrate-contracts-workshop/#/) - Walks you
   through the basics of writing and deploying an ERC20 token using `ink!`.
